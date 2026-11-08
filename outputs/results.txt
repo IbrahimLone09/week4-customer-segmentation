@@ -1,0 +1,15 @@
+WEEK 4 - CUSTOMER SEGMENTATION RESULTS
+Rows used: 200
+Algorithm: K-Means
+Number of clusters: 3
+Silhouette score: 0.4386
+
+SEGMENT SUMMARY
+                 Customers  Average_Age  Average_Annual_Income  Average_Spending_Score
+Segment                                                                               
+High Spenders           70        25.69                  24.79                   74.19
+Low Spenders            62        48.27                  82.37                   21.00
+Medium Spenders         68        41.16                  57.49                   47.22
+
+Note: cluster numbers are arbitrary; the segment names are assigned
+by sorting clusters according to their average Spending Score.
